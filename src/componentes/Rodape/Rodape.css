@@ -1,0 +1,19 @@
+.rodape {
+    background-image: url('./imagens/fundo.png');
+    background-size: cover;
+    background-color: #6278F7;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 48px;
+}
+
+.rodape .redes-sociais .logo-rede-social {
+    margin-right: 32px;
+    width: 10%;
+}   
+
+.rodape-texto {
+    color: white;
+    font-weight: 500;
+}
